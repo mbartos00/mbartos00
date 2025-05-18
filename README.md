@@ -70,8 +70,6 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
 ###
@@ -81,8 +79,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbartos00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbartos00&theme=redical&radius=50&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbartos00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="210" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbartos00&theme=redical&radius=50&hide_border=true&hide_title=false&custom_title=Contribution%20Graph" height="210" alt="activity-graph graph"  />
 </div>
 
 ###
